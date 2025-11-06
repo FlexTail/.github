@@ -8,7 +8,7 @@ The best place to see how FlexTail works is on our website. You'll find all the 
 
 | **Resource**       | **Link**                                                                                                             |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------- |
-| **Website & Docs** | [https://github.com/FlexTail/npm-flextail](https://www.google.com/search?q=https://github.com/FlexTail/npm-flextail) |
+| **Website & Docs** | [https://github.com/FlexTail/npm-flextail](https://github.com/FlexTail/npm-flextail) |
 
 <!-- | **Component Playground** | [https://github.com/FlexTail/npm-f;extail](https://www.google.com/search?q=https://github.com/FlexTail/npm-flextail) | -->
 
